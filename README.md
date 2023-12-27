@@ -1,5 +1,7 @@
 # Mosstures
 
+![banner](pictures/banner.png)
+
 My first simple Spring Boot project.
 This application is dedicated to managing vanilla Minecraft textures.
 
